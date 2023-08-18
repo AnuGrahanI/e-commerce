@@ -1,0 +1,38 @@
+[
+    {
+      "category": "Fruits & Vegetables",
+      "navname" :"Fruits-Vegetables",
+      "items": ["Fresh Vegetables", "Herbs & Seasoning", "Fresh Fruit", "Organic Fruits & Vegetables", "Cuts & Sprouts", "Exotic Fruits", "Flower Bouquets"]
+    },
+    {
+      "category": "Food Grains, Oil & Masalas",
+      "navname" :"FoodGrains",
+      "items": ["Atta, Flours and Sooji", "Rice Products", "Dals & Pulses", "Organic Staples", "Edible Oils & Ghee", "Sugar & Jaggery", "Masalas & Spices", "Dry Fruits"]
+    },
+    {
+      "category": "Milk and Dairy",
+      "navname" :"Milk-Dairy",
+      "items": ["Breads & Buns", "Non Dairy", "Gourmet Breads", "Bakery Snacks", "Cakes & Pastries", "Cookies & Rusk", "Ice Creams & Desserts"]
+    },
+    {
+      "category": "Beverages",
+      "navname" :"Beverages",
+      "items": ["Water", "Health Drinks", "Tea", "Coffee", "Fruit Juice"]
+    },
+    {
+      "category": "Branded Foods",
+      "navname" :"meat",
+      "items": ["Breakfast Cereals", "Veggies & Snacks", "Biscuits", "Namkeen", "Sauces & Ketchup", "Ready To Eat", "Chocolates", "Indian Mithai"]
+    },
+    {
+      "category": "Beauty & Hygiene",
+      "navname" :"Beautyo-Hygiene",
+      "items": ["Feminine Hygiene", "Bath & Hand Wash", "Hair Care", "Health & Medicine", "Men's Grooming", "Skin Care", "Makeup", "Fragrances"]
+    },
+    {
+      "category": "Meat",
+      "navname" :"Meat",
+      "items": ["Eggs", "Mutton", "Chicken", "Pork", "Beef", "Deer", "Lion", "Rat"]
+    }
+  ]
+  

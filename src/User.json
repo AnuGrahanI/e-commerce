@@ -1,0 +1,17 @@
+[
+    {
+        "firstName":"Anu",
+        "lastName":"Gragan",
+        "userId":"1a2s3d",
+        "userMail":"anu@gmail.com",
+        "userPhone":"8124311701"
+    },
+    {
+        "firstName":"Arun",
+        "lastName":"Kumar",
+        "userId":"2b3c4e",
+        "userMail":"arun@gmail.com",
+        "userPhone":"8124311702"
+    }
+
+]

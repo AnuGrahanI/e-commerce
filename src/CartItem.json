@@ -1,0 +1,309 @@
+[
+    {
+      "id": 110,
+      "name": "beetroot",
+      "catagry": "vegetables",
+      "main_category":"Fruits-Vegetables",
+      "titleName": "beetroot - red (tite)",
+      "brand": "FRESHO",
+      "MRP": "14.00",
+      "Rs": "10",
+      "img": "https://www.bigbasket.com/media/uploads/p/l/10000045_18-fresho-beetroot.jpg",
+      "imgs": [
+        "https://www.bigbasket.com/media/uploads/p/l/10000045-2_34-fresho-beetroot.jpg",
+        "https://www.bigbasket.com/media/uploads/p/l/10000045_18-fresho-beetroot.jpg",
+        "https://www.bigbasket.com/media/uploads/p/l/10000045-2_34-fresho-beetroot.jpg"
+      ],
+      "bestSelers": false,
+      "qty": 0
+    },
+    {
+      "id": 111,
+      "name": "carrot",
+      "catagry": "vegetables",
+      "main_category":"Fruits-Vegetables",
+      "titleName": "Carrot - Orange (Loose)",
+      "brand": "FRESHO",
+      "MRP": "126.03",
+      "Rs": "92",
+      "img": "https://www.bigbasket.com/media/uploads/p/l/10000270_13-fresho-carrot-ooty.jpg",
+      "imgs": [
+        "https://www.bigbasket.com/media/uploads/p/l/10000270_13-fresho-carrot-ooty.jpg",
+        "https://www.bigbasket.com/media/uploads/p/l/10000270_13-fresho-carrot-ooty.jpg",
+        "https://www.bigbasket.com/media/uploads/p/l/10000270_13-fresho-carrot-ooty.jpg"
+      ],
+      "bestSelers": true,
+      "qty": 0
+    },
+    {
+      "id": 112,
+      "name": "mango",
+      "catagry": "furits",
+      "main_category":"Fruits-Vegetables",
+      "titleName": "alphonso-mango-badami",
+      "brand": "FRESHO",
+      "MRP": "120.00",
+      "Rs": "75",
+      "img": "https://www.bigbasket.com/media/uploads/p/l/265699_2-frooti-drink-fresh-n-juicy-mango.jpg",
+      "imgs": [
+        "https://www.bigbasket.com/media/uploads/p/l/10000302-2_1-fresho-alphonso-mango-badami.jpg",
+        "https://www.bigbasket.com/media/uploads/p/l/10000302-2_1-fresho-alphonso-mango-badami.jpg",
+        "https://www.bigbasket.com/media/uploads/p/l/10000302-2_1-fresho-alphonso-mango-badami.jpg"
+      ],
+      "bestSelers": true,
+      "qty": 0
+    },
+    {
+      "id": 113,
+      "name": "mango",
+      "catagry": "furits",
+      "main_category":"Fruits-Vegetables",
+      "titleName": "banganapalli-mango",
+      "brand": "FRESHO",
+      "MRP": "121.92",
+      "Rs": "100",
+      "img": "https://www.bigbasket.com/media/uploads/p/l/10000298_10-fresho-banganapalli-mango.jpg",
+      "imgs": [
+        "https://www.bigbasket.com/media/uploads/p/l/10000298-2_1-fresho-banganapalli-mango.jpg",
+        "https://www.bigbasket.com/media/uploads/p/l/10000298_10-fresho-banganapalli-mango.jpg",
+        "https://www.bigbasket.com/media/uploads/p/l/10000298_10-fresho-banganapalli-mango.jpg"
+      ],
+      "bestSelers": true,
+      "qty": 0
+    },
+    {
+      "id": 114,
+      "name": "cauliflower",
+      "catagry": "vegetables",
+      "main_category":"Fruits-Vegetables",
+      "titleName": "cauliflower",
+      "brand": "FRESHO",
+      "MRP": "30.14",
+      "Rs": "22",
+      "img": "https://www.bigbasket.com/media/uploads/p/l/10000074_19-fresho-cauliflower.jpg",
+      "imgs": [
+        "https://www.bigbasket.com/media/uploads/p/l/10000074-2_2-fresho-cauliflower.jpg",
+        "https://www.bigbasket.com/media/uploads/p/l/10000074_19-fresho-cauliflower.jpg",
+        "https://www.bigbasket.com/media/uploads/p/l/10000074_19-fresho-cauliflower.jpg"
+      ],
+      "bestSelers": true,
+      "qty": 0
+    },
+    {
+      "id": 214,
+      "name": "Cut Cauliflower",
+      "catagry": "vegetables",
+      "main_category":"Fruits-Vegetables",
+      "titleName": "cauliflower , Washed",
+      "brand": "FRESHO",
+      "MRP": "30.14",
+      "Rs": "22",
+      "img": "https://www.bigbasket.com/media/uploads/p/l/40005790_8-fresho-cut-cauliflower-washed.jpg",
+      "imgs": [
+        "https://www.bigbasket.com/media/uploads/p/l/10000074-2_2-fresho-cauliflower.jpg",
+        "https://www.bigbasket.com/media/uploads/p/l/10000074_19-fresho-cauliflower.jpg",
+        "https://www.bigbasket.com/media/uploads/p/l/10000074_19-fresho-cauliflower.jpg"
+      ],
+      "bestSelers": true,
+      "qty": 0
+    },
+    {
+      "id": 115,
+      "name": "coriander",
+      "catagry": "vegetables",
+      "main_category":"Fruits-Vegetables",
+      "titleName": "coriander",
+      "brand": "FRESHO",
+      "MRP": "12.03",
+      "Rs": "10",
+      "img": "https://www.bigbasket.com/media/uploads/p/l/10000097_19-fresho-coriander-leaves.jpg",
+      "imgs": [
+        "https://www.bigbasket.com/media/uploads/p/l/10000097-2_1-fresho-coriander-leaves.jpg",
+        ".https://www.bigbasket.com/media/uploads/p/l/10000097_19-fresho-coriander-leaves.jpg",
+        "https://www.bigbasket.com/media/uploads/p/l/10000097_19-fresho-coriander-leaves.jpg"
+      ],
+      "bestSelers": true,
+      "qty": 0
+    },
+    {
+      "id": 116,
+      "name": "egg",
+      "catagry": "Meat",
+      "main_category":"Meat",
+      "titleName": "egg -chicken - 10pc",
+      "brand": "FRESHO",
+      "MRP": "55",
+      "Rs": "50",
+      "img": "https://www.bigbasket.com/media/uploads/p/l/281204_9-fresho-farm-eggs-regular-medium-antibiotic-residue-free.jpg",
+      "imgs": [
+        "https://www.bigbasket.com/media/uploads/p/l/281204-2_1-fresho-farm-eggs-regular-medium-antibiotic-residue-free.jpg",
+        "https://www.bigbasket.com/media/uploads/p/l/281204_9-fresho-farm-eggs-regular-medium-antibiotic-residue-free.jpg",
+        "https://www.bigbasket.com/media/uploads/p/l/281204_9-fresho-farm-eggs-regular-medium-antibiotic-residue-free.jpg"
+      ],
+      "bestSelers": true,
+      "qty": 0
+    },
+    {
+      "id": 126,
+      "name": "pork",
+      "catagry": "Meat",
+      "main_category":"Meat",
+      "titleName": "Tulip Pork - Luncheon Meat",
+      "brand": "TULIP",
+      "MRP": "325",
+      "Rs": "550",
+      "img": "https://www.bigbasket.com/media/uploads/p/l/40111846_1-tulip-pork-luncheon-Meat.jpg",
+      "imgs": [
+        "https://www.bigbasket.com/media/uploads/p/l/40111846-2_1-tulip-pork-luncheon-Meat.jpg",
+        "https://www.bigbasket.com/media/uploads/p/l/281204_9-fresho-farm-eggs-regular-medium-antibiotic-residue-free.jpg",
+        "https://www.bigbasket.com/media/uploads/p/l/281204_9-fresho-farm-eggs-regular-medium-antibiotic-residue-free.jpg"
+      ],
+      "bestSelers": true,
+      "qty": 0
+    },
+    {
+      "id": 127,
+      "name": "chicken",
+      "catagry": "Meat",
+      "main_category":"Meat",
+      "titleName": "Fresho Chicken - Tandoori",
+      "brand": "TULIP",
+      "MRP": "325",
+      "Rs": "550",
+      "img": "https://www.bigbasket.com/media/uploads/p/l/40048910_4-fresho-chicken-tandoori.jpg",
+      "imgs": [
+        "https://www.bigbasket.com/media/uploads/p/l/40048910-2_2-fresho-chicken-tandoori.jpg",
+        "https://www.bigbasket.com/media/uploads/p/l/40048910_4-fresho-chicken-tandoori.jpg",
+        "https://www.bigbasket.com/media/uploads/p/l/40048910_4-fresho-chicken-tandoori.jpg"
+      ],
+      "bestSelers": true,
+      "qty": 0
+    },
+    {
+      "id": 128,
+      "name": "Fish",
+      "catagry": "Meat",
+      "main_category":"Meat",
+      "titleName": "Fresho Chicken Curry Cut Without Skin 500 g + Catla Fish Large Curry Cut 500 g, Combo 2 Items",
+      "brand": "TULIP",
+      "MRP": "565",
+      "Rs": "408",
+      "img": "https://www.bigbasket.com/media/uploads/p/l/1221167_1-fresho-chicken-curry-cut-without-skin-500-g-catla-fish-large-curry-cut-500-g.jpg",
+      "imgs": [
+        "https://www.bigbasket.com/media/uploads/p/l/1221167_1-fresho-chicken-curry-cut-without-skin-500-g-catla-fish-large-curry-cut-500-g.jpg",
+        "https://www.bigbasket.com/media/uploads/p/l/1221167_1-fresho-chicken-curry-cut-without-skin-500-g-catla-fish-large-curry-cut-500-g.jpg",
+        "https://www.bigbasket.com/media/uploads/p/l/1221167_1-fresho-chicken-curry-cut-without-skin-500-g-catla-fish-large-curry-cut-500-g.jpg"
+      ],
+      "bestSelers": true,
+      "qty": 0
+    },
+    {
+      "id": 117,
+      "name": "Sun flower Oil",
+      "catagry": "oil",
+      "main_category":"FoodGrains",
+      "titleName": "Fortune Sunflower Refined Oil - Sun Lite",
+      "brand": "FRESHO",
+      "MRP": "1000",
+      "Rs": "150",
+      "img": "https://www.bigbasket.com/media/uploads/p/l/1204455-2_1-fortune-sunflower-refined-oil-sun-lite.jpg",
+      "imgs": [
+        "https://www.bigbasket.com/media/uploads/p/l/1204455_2-fortune-sunflower-refined-oil-sun-lite.jpg",
+        "https://www.bigbasket.com/media/uploads/p/l/1204455-2_1-fortune-sunflower-refined-oil-sun-lite.jpg",
+        "https://www.bigbasket.com/media/uploads/p/l/1204455-2_1-fortune-sunflower-refined-oil-sun-lite.jpg"
+      ],
+      "bestSelers": true,
+      "qty": 0
+    },
+    {
+      "id": 137,
+      "name": "olive-oil",
+      "catagry": "oil",
+      "main_category":"FoodGrains",
+      "titleName": "Vergin olive-oil",
+      "brand": "FRESHO",
+      "MRP": "180",
+      "Rs": "160",
+      "img": "https://www.bigbasket.com/media/uploads/p/l/40041183_7-del-monte-extra-virgin-olive-oil.jpg",
+      "imgs": [
+        "https://www.bigbasket.com/media/uploads/p/l/40041183-2_5-del-monte-extra-virgin-olive-oil.jpg",
+        "https://www.bigbasket.com/media/uploads/p/l/40041183-2_5-del-monte-extra-virgin-olive-oil.jpg",
+        "https://www.bigbasket.com/media/uploads/p/l/40041183-2_5-del-monte-extra-virgin-olive-oil.jpg"
+      ],
+      "bestSelers": true,
+      "qty": 0
+    },
+    {
+      "id": 118,
+      "name": "onion",
+      "catagry": "vegetables",
+      "main_category":"Fruits-Vegetables",
+      "titleName": "onion",
+      "brand": "FRESHO",
+      "MRP": "30.03",
+      "Rs": "25",
+      "img": "https://www.bigbasket.com/media/uploads/p/l/40041183-2_5-del-monte-extra-virgin-olive-oil.jpg",
+      "imgs": [
+        "https://www.bigbasket.com/media/uploads/p/l/40041183-2_5-del-monte-extra-virgin-olive-oil.jpg",
+        "https://www.bigbasket.com/media/uploads/p/l/40041183-2_5-del-monte-extra-virgin-olive-oil.jpg",
+        "https://www.bigbasket.com/media/uploads/p/l/40041183-2_5-del-monte-extra-virgin-olive-oil.jpg"
+      ],
+      "bestSelers": true,
+      "qty": 0
+    },
+    {
+      "id": 119,
+      "name": "pototo",
+      "catagry": "vegetables",
+      "main_category":"Fruits-Vegetables",
+      "titleName": "pototo",
+      "brand": "FRESHO",
+      "MRP": "15.03",
+      "Rs": "5",
+      "img": "https://www.bigbasket.com/media/uploads/p/l/10000150-3_4-fresho-onion.jpg",
+      "imgs": [
+        "https://www.bigbasket.com/media/uploads/p/l/10000150-3_4-fresho-onion.jpg",
+        "https://www.bigbasket.com/media/uploads/p/l/10000150-3_4-fresho-onion.jpg",
+        "https://www.bigbasket.com/media/uploads/p/l/10000150-3_4-fresho-onion.jpg"
+      ],
+      "bestSelers": true,
+      "qty": 0
+    },
+    {
+      "id": 120,
+      "name": "coconut",
+      "catagry": "vegetables",
+      "main_category":"Fruits-Vegetables",
+      "titleName": "tender-coconut",
+      "brand": "FRESHO",
+      "MRP": "45.67",
+      "Rs": "35",
+      "img": "https://www.bigbasket.com/media/uploads/p/l/10000093_16-fresho-coconut-medium.jpg",
+      "imgs": [
+        "https://www.bigbasket.com/media/uploads/p/l/10000093_16-fresho-coconut-medium.jpg",
+        "https://www.bigbasket.com/media/uploads/p/l/10000093_16-fresho-coconut-medium.jpg",
+        "https://www.bigbasket.com/media/uploads/p/l/10000093_16-fresho-coconut-medium.jpg"
+      ],
+      "bestSelers": true,
+      "qty": 0
+    },
+    {
+      "id": 121,
+      "name": "tomato",
+      "catagry": "vegetables",
+      "main_category":"Fruits-Vegetables",
+      "titleName": "tomato-hybrid",
+      "brand": "FRESHO",
+      "MRP": "19.03",
+      "Rs": "9",
+      "img": "https://www.bigbasket.com/media/uploads/p/l/40312601_1-fresho-tomato-local.jpg",
+      "imgs": [
+        "https://www.bigbasket.com/media/uploads/p/l/40312601_1-fresho-tomato-local.jpg",
+        "https://www.bigbasket.com/media/uploads/p/l/40312601_1-fresho-tomato-local.jpg",
+        "https://www.bigbasket.com/media/uploads/p/l/40312601_1-fresho-tomato-local.jpg"
+      ],
+      "bestSelers": true,
+      "qty": 0
+    }
+  ]
+  
