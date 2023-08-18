@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/e-commerce/static/css/main.b499900b.css",
+    "main.js": "/e-commerce/static/js/main.67ae455d.js",
+    "static/js/787.3a278e36.chunk.js": "/e-commerce/static/js/787.3a278e36.chunk.js",
+    "static/media/in.png": "/e-commerce/static/media/in.f6ae0ba2d59d79a3e08d.png",
+    "static/media/homeBaner.jpg": "/e-commerce/static/media/homeBaner.7799cd2ccaf28672c82d.jpg",
+    "static/media/fb.png": "/e-commerce/static/media/fb.87b32c56c65aee324801.png",
+    "static/media/Pinterest-logo.png": "/e-commerce/static/media/Pinterest-logo.8f0c34f44019fff319e4.png",
+    "static/media/banksetails2.jpeg": "/e-commerce/static/media/banksetails2.d11dc9b27b67580edd05.jpeg",
+    "static/media/bankdetails3.jpeg": "/e-commerce/static/media/bankdetails3.77f36ad989a8a6ef9c42.jpeg",
+    "static/media/bankdetails.jpeg": "/e-commerce/static/media/bankdetails.2b9ef4b9167071ddf33e.jpeg",
+    "static/media/bankdetails4.jpeg": "/e-commerce/static/media/bankdetails4.293d07529f241afef126.jpeg",
+    "static/media/newpass,jpeg": "/e-commerce/static/media/newpass,jpeg.822369f7235d8178512b",
+    "index.html": "/e-commerce/index.html",
+    "main.b499900b.css.map": "/e-commerce/static/css/main.b499900b.css.map",
+    "main.67ae455d.js.map": "/e-commerce/static/js/main.67ae455d.js.map",
+    "787.3a278e36.chunk.js.map": "/e-commerce/static/js/787.3a278e36.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b499900b.css",
+    "static/js/main.67ae455d.js"
+  ]
+}
